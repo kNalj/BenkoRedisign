@@ -1,5 +1,5 @@
 <?php
-$myemail = 'drmishello@hotmail.com';
+$myemail = 'EMAIL';
 if (isset($_POST['name'])) {
     $name = strip_tags($_POST['name']);
     $email = strip_tags($_POST['email']);
